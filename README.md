@@ -1,6 +1,4 @@
-# FlagshipFaceOff Complete
 
-[Live Demo](https://flagship-face-off.netlify.app/)
 
 ## Documentation Links
 - [React](https://react.dev/)
